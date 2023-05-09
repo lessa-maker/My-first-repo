@@ -1,0 +1,10 @@
+Development of an open online plateforme, making science research easy, and accessible for agricultural students in Cameroon.
+
+We building a plateform with experts in the domains of agriculture, bioinformtics and 
+computer science. The plateform will help undergraduate agricultural students identify research 
+topics, intenship opportunities, and other courses that will build up their carrier. Lack of  quality research with accessible funds and good research proposal and topic for graduate and undergraduate students have been the main problem in Cameroon and in Africa as a whole. We 
+beleive that, this plateform will contribute to reduce the gap in agricultural improvement.
+
+Milestone 
+
+- short term: actually, now we are working the first prototype. 
